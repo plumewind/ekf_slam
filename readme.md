@@ -17,8 +17,5 @@ processing. An example use of this data is shown in m-file
 'plot_feature_loci.m', which plots the trajectories of the 
 landmark estimates.
 
-The task is to reprogram this EKF-SLAM algorithm in C++/Python
-language. I recomend you use ROS platform for doing this. For the 
-matrix operation, I recomend you use Eigen library.
 
 From the homework of probabilistic robot course
