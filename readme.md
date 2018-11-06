@@ -1,6 +1,8 @@
 EKF-SLAM Simulator
 ------------------
 
+
+
 This simulator demonstrates a simple implementation of
 standard EKF-SLAM. It permits simple configuration via 
 'configfile.m' to perform SLAM with various control parameters,
@@ -19,3 +21,12 @@ landmark estimates.
 
 
 From the homework of probabilistic robot course
+
+
+How to use ?
+------------------
+Open matlab and enter the following two commands on the command line:
+
+load('example_webmap.mat')
+ekfslam_sim(lm,wp)
+
