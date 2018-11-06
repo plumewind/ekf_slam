@@ -1,7 +1,7 @@
 EKF-SLAM Simulator
 ------------------
 
-[![Watch the video](https://github.com/plumewind/ekf_slam/edit/master/ekfslam_sim.PNG)](https://youtu.be/Yhs36RszeTs)
+[![Watch the video](https://github.com/plumewind/ekf_slam/blob/master/ekfslam_sim.PNG)](https://youtu.be/Yhs36RszeTs)
 
 This simulator demonstrates a simple implementation of
 standard EKF-SLAM. It permits simple configuration via 
