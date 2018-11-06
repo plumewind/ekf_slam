@@ -1,6 +1,7 @@
 EKF-SLAM Simulator
 ------------------
 
+To watch the video, please click on the picture below!
 [![Watch the video](https://github.com/plumewind/ekf_slam/blob/master/ekfslam_sim.PNG)](https://youtu.be/Yhs36RszeTs)
 
 This simulator demonstrates a simple implementation of
